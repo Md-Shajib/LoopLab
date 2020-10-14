@@ -1,0 +1,49 @@
+body{
+    background: rgb(114, 122, 122);
+}
+.navbar{
+    background: rgba(52, 73, 94, 0.705);
+    border-bottom: 3px solid rgba(52, 152, 219,1.0);
+    border-top: 2px solid rgba(52, 152, 219,1.0);
+    border-left: 2px solid rgba(52, 152, 219,1.0);
+    border-right: 2px solid rgba(52, 152, 219,1.0);
+}
+#home-section{
+    background-image: url(../img/home.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+}
+.home-inner-color{
+    background: rgba(131, 149, 167,0.5);
+    height: 700px;
+}
+#home-section .home-inner-content{
+    padding-top: 150px;
+}
+#explore-main-section .fa {
+    background: rgb(49, 49, 49);
+    color: #fff;
+    font-size: 30px;
+    padding: 4px;
+    border-radius: 5px; 
+}
+#create-main-section .fa {
+    background: rgb(255, 255, 255);
+    color: #0196e0;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px; 
+}
+#share-main-section .fa {
+    font-size: 30px;
+    background: #333;
+    color: #fff;
+    padding: 4px;
+    border-radius: 5px;
+}
+
+
+
